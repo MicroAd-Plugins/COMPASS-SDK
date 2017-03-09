@@ -8,7 +8,7 @@ You can read more about COMPASS at [its' official page](https://www.microad.co.j
 
 1. Download the latest release or clone the repository.
 
-Please read the [manual](https://github.com/MicroAd-Products/COMPASS-iOS-SDK/wiki/COMPASS-SDK-for-Android-Apps) (Japanese) on how to integrate COMPASS SDK into your project.
+Please read the [manual](https://github.com/MicroAd-Products/COMPASS-ANDROID-SDK/wiki/COMPASS-SDK-for-Android-Apps) (Japanese) on how to integrate COMPASS SDK into your project.
 
 ##Included Files
 
